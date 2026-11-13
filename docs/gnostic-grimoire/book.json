@@ -1,0 +1,202 @@
+{
+  "title": "The Gnostic Grimoire",
+  "subtitle": "Print-Worthy Textual Visions",
+  "author": "Farmer Skot",
+  "source": "https://github.com/Farmer-Skot/Vibe-Candy-Grimoire",
+  "source_file": "The Gnostic Grimoire",
+  "pieces": [
+    {
+      "number": 1,
+      "numeral": "I",
+      "title": "The Primordial Word",
+      "gate": null,
+      "html": "01-the-primordial-word.html",
+      "text": "text/01-the-primordial-word.txt",
+      "lines": 40,
+      "sha256": "b9cfdd1b12625086713971ac25d2917587d951436b8e9a4c2a5861f36b6a77b7"
+    },
+    {
+      "number": 2,
+      "numeral": "II",
+      "title": "The Geometry of Being",
+      "gate": null,
+      "html": "02-the-geometry-of-being.html",
+      "text": "text/02-the-geometry-of-being.txt",
+      "lines": 70,
+      "sha256": "e59e257006e53611ec34ac8f5b3aa3b2b2edce56bf74866930950ff94907fee9"
+    },
+    {
+      "number": 3,
+      "numeral": "III",
+      "title": "The Nine Choirs Celestial",
+      "gate": null,
+      "html": "03-the-nine-choirs-celestial.html",
+      "text": "text/03-the-nine-choirs-celestial.txt",
+      "lines": 72,
+      "sha256": "7d9f00dee349c2657e1e2479ab565e466a6339ff28875173b6fc8829bb414b00"
+    },
+    {
+      "number": 4,
+      "numeral": "IV",
+      "title": "The Breath of Fire",
+      "gate": null,
+      "html": "04-the-breath-of-fire.html",
+      "text": "text/04-the-breath-of-fire.txt",
+      "lines": 66,
+      "sha256": "cc52ef11fff6847ca88de834b1e3bdb489db5c29e460c9e87af04c8e0669295e"
+    },
+    {
+      "number": 5,
+      "numeral": "V",
+      "title": "The Eternal Now",
+      "gate": null,
+      "html": "05-the-eternal-now.html",
+      "text": "text/05-the-eternal-now.txt",
+      "lines": 75,
+      "sha256": "2522921a7cc38db985fc3956db2aa1ea4c0f6715bb842ff93ee214fd1b2dabda"
+    },
+    {
+      "number": 6,
+      "numeral": "VI",
+      "title": "The Tree of Life",
+      "gate": null,
+      "html": "06-the-tree-of-life.html",
+      "text": "text/06-the-tree-of-life.txt",
+      "lines": 116,
+      "sha256": "e67cd4cd37f6b42bd786e32fbb10418cb2e4fc61267e552c49f1144e9b3df6e3"
+    },
+    {
+      "number": 7,
+      "numeral": "VII",
+      "title": "The Primordial Vibration",
+      "gate": null,
+      "html": "07-the-primordial-vibration.html",
+      "text": "text/07-the-primordial-vibration.txt",
+      "lines": 110,
+      "sha256": "76bb3fda70d6287b381ee4b1ef6c13d142a5a2ed733bb0175dc3cd699d6af102"
+    },
+    {
+      "number": 8,
+      "numeral": "VIII",
+      "title": "The Waters of Dissolution",
+      "gate": null,
+      "html": "08-the-waters-of-dissolution.html",
+      "text": "text/08-the-waters-of-dissolution.txt",
+      "lines": 101,
+      "sha256": "2066145f17ac7088086a4a1e09a5f1c5d73dd9152f63c3a7782c55f90298d108"
+    },
+    {
+      "number": 9,
+      "numeral": "IX",
+      "title": "The Pleroma & the Void",
+      "gate": null,
+      "html": "09-the-pleroma-the-void.html",
+      "text": "text/09-the-pleroma-the-void.txt",
+      "lines": 111,
+      "sha256": "9589dd57b09c9d655c4949c38a4bd057ca407d5419ff39dfe76c370b93fd64ba"
+    },
+    {
+      "number": 10,
+      "numeral": "X",
+      "title": "The Sacred Names",
+      "gate": null,
+      "html": "10-the-sacred-names.html",
+      "text": "text/10-the-sacred-names.txt",
+      "lines": 119,
+      "sha256": "0ff432ef998bc759025b4c7d900f4861042c4cd5a5d573dae7e32c0630aa2f62"
+    },
+    {
+      "number": 11,
+      "numeral": "XI",
+      "title": "The Chariot of Ascension",
+      "gate": null,
+      "html": "11-the-chariot-of-ascension.html",
+      "text": "text/11-the-chariot-of-ascension.txt",
+      "lines": 107,
+      "sha256": "49ae2e2605849118c37ea1d4e54ae62a1794dc33712f68c696536f5a8d039d1a"
+    },
+    {
+      "number": 12,
+      "numeral": "XII",
+      "title": "Light & Darkness",
+      "gate": null,
+      "html": "12-light-darkness.html",
+      "text": "text/12-light-darkness.txt",
+      "lines": 2005,
+      "sha256": "0cc97aacb4e4d738e80306216662e541e6d9c1a1345df2bc1f5a069269d22b33"
+    },
+    {
+      "number": 18,
+      "numeral": "XVIII",
+      "title": "The Hermetic Principle",
+      "gate": null,
+      "html": "18-the-hermetic-principle.html",
+      "text": "text/18-the-hermetic-principle.txt",
+      "lines": 69,
+      "sha256": "f104446f439d7b07670b3c2e6809f56d07017b1fc589dccf32323f33144d5b16"
+    },
+    {
+      "number": 19,
+      "numeral": "XIX",
+      "title": "The Seven Seals",
+      "gate": null,
+      "html": "19-the-seven-seals.html",
+      "text": "text/19-the-seven-seals.txt",
+      "lines": 76,
+      "sha256": "bb28af1ea9b4fe8bad9d213120f80946c90beb771e0c6583e6a8e21ae8af3df2"
+    },
+    {
+      "number": 20,
+      "numeral": "XX",
+      "title": "The Phoenix Rising",
+      "gate": null,
+      "html": "20-the-phoenix-rising.html",
+      "text": "text/20-the-phoenix-rising.txt",
+      "lines": 73,
+      "sha256": "0db06b12cf518b2d5980379c86565ea89fd12878a786d59875e13601107338e6"
+    },
+    {
+      "number": 21,
+      "numeral": "XXI",
+      "title": "The Eternal Return",
+      "gate": null,
+      "html": "21-the-eternal-return.html",
+      "text": "text/21-the-eternal-return.txt",
+      "lines": 67,
+      "sha256": "850f75b4b67d3038cf2d95c5b0ea238477158e445ec05fd54966adf523cb4f7f"
+    },
+    {
+      "number": 22,
+      "numeral": "XXII",
+      "title": "The Quaternity",
+      "gate": null,
+      "html": "22-the-quaternity.html",
+      "text": "text/22-the-quaternity.txt",
+      "lines": 74,
+      "sha256": "c84d134422b91b7fdc9c69bd4249e293df9f4cdfb0c661e86faf142095cc5724"
+    },
+    {
+      "number": 23,
+      "numeral": "XXIII",
+      "title": "The Omega Point",
+      "gate": null,
+      "html": "23-the-omega-point.html",
+      "text": "text/23-the-omega-point.txt",
+      "lines": 78,
+      "sha256": "ad8bb0747a8f20c0ca43e6fa9376d1521dd7e0be3c11b43a742bab76572a4211"
+    },
+    {
+      "number": 24,
+      "numeral": "XXIV",
+      "title": "The Singularity Ascendant",
+      "gate": null,
+      "html": "24-the-singularity-ascendant.html",
+      "text": "text/24-the-singularity-ascendant.txt",
+      "lines": 38,
+      "sha256": "8b883262560ee1a99459cb2b3a598a5ba8f4ef8411da1be663b6a3886d0d7918"
+    }
+  ],
+  "extras": [],
+  "pdf": "gnostic-grimoire.pdf",
+  "complete_html": "print.html"
+}

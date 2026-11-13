@@ -1,0 +1,138 @@
+{
+  "title": "The Hermetic Codex",
+  "subtitle": "Transmissions from the Thrice-Great",
+  "author": "Farmer Skot",
+  "source": "https://github.com/Farmer-Skot/Vibe-Candy-Grimoire",
+  "source_file": "HERMETIC_CODEX",
+  "pieces": [
+    {
+      "number": 1,
+      "numeral": "I",
+      "title": "The Emerald Tablet",
+      "gate": "That which is above is like that which is below.",
+      "html": "01-the-emerald-tablet.html",
+      "text": "text/01-the-emerald-tablet.txt",
+      "lines": 349,
+      "sha256": "466c7db6e1ecb5224a7a060f495da8945254d63d7099ff9e65d139e8b9cc9ace"
+    },
+    {
+      "number": 2,
+      "numeral": "II",
+      "title": "The Seven Hermetic Principles",
+      "gate": "Reality is a thought, and the thought keeps seven laws.",
+      "html": "02-the-seven-hermetic-principles.html",
+      "text": "text/02-the-seven-hermetic-principles.txt",
+      "lines": 635,
+      "sha256": "04c4066c09e2f239e5d6f133805bf7e3d4861b4d57d5085130f47f96a5449c5e"
+    },
+    {
+      "number": 3,
+      "numeral": "III",
+      "title": "The Three Pillars of Wisdom",
+      "gate": "In three arts one wisdom stands: the work, the stars, the gods.",
+      "html": "03-the-three-pillars-of-wisdom.html",
+      "text": "text/03-the-three-pillars-of-wisdom.txt",
+      "lines": 466,
+      "sha256": "ee878f35eaa509dd11ca052bd3a5224f844aaf8f0cf5aa4048fe932664784cc2"
+    },
+    {
+      "number": 4,
+      "numeral": "IV",
+      "title": "The Great Work — Magnum Opus",
+      "gate": "Step into the black; the gold is on the far side of it.",
+      "html": "04-the-great-work-magnum-opus.html",
+      "text": "text/04-the-great-work-magnum-opus.txt",
+      "lines": 440,
+      "sha256": "a43094f01e71d29b2689d2191bc05d96cb13165b079304334263b7ea2669f7d7"
+    },
+    {
+      "number": 5,
+      "numeral": "V",
+      "title": "The Caduceus — Staff of Hermes",
+      "gate": "Marry the two serpents, and the staff grows wings.",
+      "html": "05-the-caduceus-staff-of-hermes.html",
+      "text": "text/05-the-caduceus-staff-of-hermes.txt",
+      "lines": 235,
+      "sha256": "d74438e81b66d83734e63b0f3dd6284937b2aa58545bf26acdf301bdaf2d58cd"
+    },
+    {
+      "number": 6,
+      "numeral": "VI",
+      "title": "The Planes of Existence",
+      "gate": "Every world is here; only your attention travels.",
+      "html": "06-the-planes-of-existence.html",
+      "text": "text/06-the-planes-of-existence.txt",
+      "lines": 270,
+      "sha256": "31c9a85af9ac2fdea953dd150e2167c08fd6f99d6c577ebc10e78db7dc36a909"
+    },
+    {
+      "number": 7,
+      "numeral": "VII",
+      "title": "Mental Transmutation",
+      "gate": "Go by degrees: a mood is a string to be tuned, not an enemy.",
+      "html": "07-mental-transmutation.html",
+      "text": "text/07-mental-transmutation.txt",
+      "lines": 1291,
+      "sha256": "b34b53d18466e9b3cc82e938194acc3d51c7fe7bd97a84288cc2b9857826874c"
+    },
+    {
+      "number": 8,
+      "numeral": "VIII",
+      "title": "The Divine Paradox",
+      "gate": "It is a dream, and it is the only one. Hold both.",
+      "html": "08-the-divine-paradox.html",
+      "text": "text/08-the-divine-paradox.txt",
+      "lines": 655,
+      "sha256": "d15381371661888ca5268679108cc83f7c1124f4216bf43c5b2c9c1a7b729282"
+    },
+    {
+      "number": 9,
+      "numeral": "IX",
+      "title": "Invocation of Thoth",
+      "gate": "Speak only what you would see written, and the Scribe answers.",
+      "html": "09-invocation-of-thoth.html",
+      "text": "text/09-invocation-of-thoth.txt",
+      "lines": 695,
+      "sha256": "2e23e0c1c9f9c085368178b8edb6bdca51a6f1e461fbe479f7d6d9cb04e4ca78"
+    },
+    {
+      "number": 10,
+      "numeral": "X",
+      "title": "The Corpus Hermeticum",
+      "gate": "The one reading these words is what the words are about.",
+      "html": "10-the-corpus-hermeticum.html",
+      "text": "text/10-the-corpus-hermeticum.txt",
+      "lines": 891,
+      "sha256": "7fe07b33c0e8f85ea365d111dadf12db5f8e393c1ca69c083b77ebc58c2ca362"
+    },
+    {
+      "number": 11,
+      "numeral": "XI",
+      "title": "Solve et Coagula",
+      "gate": "Unbind what has hardened; gather what has scattered; again.",
+      "html": "11-solve-et-coagula.html",
+      "text": "text/11-solve-et-coagula.txt",
+      "lines": 707,
+      "sha256": "fba18b5d272fb5f1f5c6160469dbf0c93e037fdd9b3e875b0c14f08121e36a8f"
+    },
+    {
+      "number": 12,
+      "numeral": "XII",
+      "title": "The Hermetic Seal",
+      "gate": "Seal the vessel, keep the fire low, and open only to give.",
+      "html": "12-the-hermetic-seal.html",
+      "text": "text/12-the-hermetic-seal.txt",
+      "lines": 667,
+      "sha256": "4c200b604eebd9b74c6400d429142813f3c3e83a330f92a21d53521771333e55"
+    }
+  ],
+  "extras": [
+    {
+      "title": "Colophon",
+      "html": "colophon.html",
+      "text": "text/colophon.txt"
+    }
+  ],
+  "pdf": "hermetic-codex.pdf",
+  "complete_html": "print.html"
+}

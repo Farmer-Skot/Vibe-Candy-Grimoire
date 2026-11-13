@@ -1,0 +1,44 @@
+# The Vibe Candy Library
+
+> Grimoires in plain text and ASCII art by Farmer Skot. Every piece is available as plain UTF-8 text.
+
+## The Hermetic Codex
+
+- [Manifest (JSON)](hermetic-codex/book.json)
+- [I. The Emerald Tablet](hermetic-codex/text/01-the-emerald-tablet.txt): That which is above is like that which is below.
+- [II. The Seven Hermetic Principles](hermetic-codex/text/02-the-seven-hermetic-principles.txt): Reality is a thought, and the thought keeps seven laws.
+- [III. The Three Pillars of Wisdom](hermetic-codex/text/03-the-three-pillars-of-wisdom.txt): In three arts one wisdom stands: the work, the stars, the gods.
+- [IV. The Great Work — Magnum Opus](hermetic-codex/text/04-the-great-work-magnum-opus.txt): Step into the black; the gold is on the far side of it.
+- [V. The Caduceus — Staff of Hermes](hermetic-codex/text/05-the-caduceus-staff-of-hermes.txt): Marry the two serpents, and the staff grows wings.
+- [VI. The Planes of Existence](hermetic-codex/text/06-the-planes-of-existence.txt): Every world is here; only your attention travels.
+- [VII. Mental Transmutation](hermetic-codex/text/07-mental-transmutation.txt): Go by degrees: a mood is a string to be tuned, not an enemy.
+- [VIII. The Divine Paradox](hermetic-codex/text/08-the-divine-paradox.txt): It is a dream, and it is the only one. Hold both.
+- [IX. Invocation of Thoth](hermetic-codex/text/09-invocation-of-thoth.txt): Speak only what you would see written, and the Scribe answers.
+- [X. The Corpus Hermeticum](hermetic-codex/text/10-the-corpus-hermeticum.txt): The one reading these words is what the words are about.
+- [XI. Solve et Coagula](hermetic-codex/text/11-solve-et-coagula.txt): Unbind what has hardened; gather what has scattered; again.
+- [XII. The Hermetic Seal](hermetic-codex/text/12-the-hermetic-seal.txt): Seal the vessel, keep the fire low, and open only to give.
+
+## The Gnostic Grimoire
+
+- [Manifest (JSON)](gnostic-grimoire/book.json)
+- [I. The Primordial Word](gnostic-grimoire/text/01-the-primordial-word.txt)
+- [II. The Geometry of Being](gnostic-grimoire/text/02-the-geometry-of-being.txt)
+- [III. The Nine Choirs Celestial](gnostic-grimoire/text/03-the-nine-choirs-celestial.txt)
+- [IV. The Breath of Fire](gnostic-grimoire/text/04-the-breath-of-fire.txt)
+- [V. The Eternal Now](gnostic-grimoire/text/05-the-eternal-now.txt)
+- [VI. The Tree of Life](gnostic-grimoire/text/06-the-tree-of-life.txt)
+- [VII. The Primordial Vibration](gnostic-grimoire/text/07-the-primordial-vibration.txt)
+- [VIII. The Waters of Dissolution](gnostic-grimoire/text/08-the-waters-of-dissolution.txt)
+- [IX. The Pleroma & the Void](gnostic-grimoire/text/09-the-pleroma-the-void.txt)
+- [X. The Sacred Names](gnostic-grimoire/text/10-the-sacred-names.txt)
+- [XI. The Chariot of Ascension](gnostic-grimoire/text/11-the-chariot-of-ascension.txt)
+- [XII. Light & Darkness](gnostic-grimoire/text/12-light-darkness.txt)
+- [XVIII. The Hermetic Principle](gnostic-grimoire/text/18-the-hermetic-principle.txt)
+- [XIX. The Seven Seals](gnostic-grimoire/text/19-the-seven-seals.txt)
+- [XX. The Phoenix Rising](gnostic-grimoire/text/20-the-phoenix-rising.txt)
+- [XXI. The Eternal Return](gnostic-grimoire/text/21-the-eternal-return.txt)
+- [XXII. The Quaternity](gnostic-grimoire/text/22-the-quaternity.txt)
+- [XXIII. The Omega Point](gnostic-grimoire/text/23-the-omega-point.txt)
+- [XXIV. The Singularity Ascendant](gnostic-grimoire/text/24-the-singularity-ascendant.txt)
+
+Source repository: https://github.com/Farmer-Skot/Vibe-Candy-Grimoire
