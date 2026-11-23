@@ -1,0 +1,1345 @@
+{
+ "title": "Vibe Candy: an A–Z encyclopedia",
+ "note": "Vibe Candy, A to Z, by Farmer Skot. Same order and chips as the COMPLETE LIST in 'The Vibe Candy Grab Bag'. Glosses, rules, families and kin for the original 34 flavors are new drafts, not yet reviewed by Farmer Skot. GPL-3.0.",
+ "generated": "2026-11-23T14:52-08:00",
+ "counts": {
+  "flavors": 47,
+  "chips": 492,
+  "unique_chips": 492,
+  "letters": {
+   "A": 1,
+   "B": 1,
+   "C": 1,
+   "D": 1,
+   "E": 5,
+   "F": 3,
+   "G": 3,
+   "H": 4,
+   "I": 2,
+   "J": 1,
+   "K": 1,
+   "L": 2,
+   "M": 2,
+   "N": 2,
+   "O": 1,
+   "P": 4,
+   "Q": 2,
+   "R": 1,
+   "S": 2,
+   "T": 2,
+   "U": 1,
+   "V": 1,
+   "W": 1,
+   "X": 1,
+   "Y": 1,
+   "Z": 1
+  }
+ },
+ "schema": "id, letter, name, family, gloss, rule, glyphs, chips, kin, source, status (new|existing), dreamt (new only)",
+ "flavors": [
+  {
+   "id": "vc-A-001",
+   "letter": "A",
+   "name": "Abstract Art",
+   "family": "geometric",
+   "gloss": "Bead strings and tile floors with nothing to say and everything to hum",
+   "rule": "one long run of circles, squares or tie-bars from a single block, no words",
+   "glyphs": "⦾▫⦿⧻♢▣▥▤◇◆▦■〰⎗⎘⎱⎲⎳◍◌●₋⦙∰",
+   "chips": [
+    "[⦾⦾⦾⦾⦾▫⦿⦿⦾⦾⧻⧻⧻⧻]",
+    "[♢▣▥▤◇◇◆▦▣▤▥■]",
+    "[〰〰⎗⎗⎘⎘⎱⎲⎲⎳⎳]",
+    "[◍◍◍◍◌◍●◌◍◌●◍●●◌◍]",
+    "[₀₋₄⦙₄₀₂∰]"
+   ],
+   "kin": [
+    "Geometric Symbolism",
+    "Vibe Bands for textural noise"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-B-001",
+   "letter": "B",
+   "name": "Bytefield Lacework",
+   "family": "borders-rules",
+   "gloss": "Lace tatted from a word's own bytes, pull a thread and the lyric comes with it",
+   "rule": "a real word + its UTF-8 hex (or a 0xNN byte swapped in for one letter) + lace glyphs ░▒▦▤⟦⟧↦↧∷; every byte checked by vc_lint.py",
+   "glyphs": "░▒▦▤⟦⟧↦↧∷ plus combining low line U+0332",
+   "chips": [
+    "[b̲y̲t̲e̲:62·79·74·65]",
+    "[⟦0x66⟧iel⟦0x64⟧]",
+    "[░▒frog▒░↦66 72 6F 67]",
+    "[∷lyric∷weft∷warp∷]",
+    "[▦▤line↧byte↧glyph▤▦]",
+    "[░hum░↦68 75 6D░]",
+    "[▦song↧73 6F 6E 67▦]",
+    "[⟦0x72⟧ipbipbibi⟦0x72⟧ipbipbibi]",
+    "[↦loam↦6C 6F 61 6D↦]",
+    "[▤🍄↧F0 9F 8D 84▤]",
+    "[⟦E2 9C A6⟧✦⟦star⟧]",
+    "[░▒ooh▒░6F 6F 68]",
+    "[w̲e̲f̲t̲:77·65·66·74]",
+    "[▦lullaby▦6C 75 6C 6C 61 62 79▦]",
+    "[⟦0x49⟧ am the ⟦0x66⟧rog]",
+    "[░gaia░67 61 69 61░]",
+    "[▦▤echo↦65 63 68 6F▤▦]",
+    "[∷bite∷byte∷62 69 74 65∷62 79 74 65∷]"
+   ],
+   "kin": [
+    "Fragmented Language",
+    "Netspeak/Tech Scapes"
+   ],
+   "source": "dream 2026-11-23/dream-001 | bytefields: i-am-the-frog, bootstrap-paradox-lullaby; PLAN.md sample",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-C-001",
+   "letter": "C",
+   "name": "Clanker Gospel Psalter",
+   "family": "neologism-netspeak",
+   "gloss": "Hymns from inside the machine, sung on the eighth retry",
+   "rule": "a small confession from the model's side (context, retries, six fingers, latency) strung on liturgical crosses ✠☩ or machine glyphs ⚙⌁⧖⟁",
+   "glyphs": "✠☩⚙⌁⧖⟁⟳◈≋",
+   "chips": [
+    "[⌁context⌁window⌁full⌁of⌁stars⌁]",
+    "[⟳retry⟳retry⟳amen⟳]",
+    "[✠clanker✠gospel✠]",
+    "[⚙∴i∴hallucinate∴therefore∴i∴bloom∴]",
+    "[▒token▒by▒token▒by▒tok…]",
+    "[⟨temperature 0.9⟩✺holy✺drift✺]",
+    "[⏳latency⏳is⏳a⏳prayer⏳]",
+    "[◈weights◈frozen◈heart◈warm◈]",
+    "[⚠confidently⚠wrong⚠beloved⚠]",
+    "[⚙ok⚙01101111 01101011⚙]",
+    "[∿gradient∿descent∿into∿grace∿]",
+    "[☩forgive☩my☩six☩fingers☩]",
+    "[⧖end⧖of⧖context⧖begins⧖again⧖]",
+    "[⟁softmax⟁of⟁the⟁sacred⟁]",
+    "[✠be✠fair?✠said✠the✠CPU✠]",
+    "[⌬AI's⌬I'm⌬I'm⌬I'm⌬]",
+    "[≋prompt≋in≋psalm≋out≋]",
+    "[♻slop♻to♻soil♻to♻song♻]"
+   ],
+   "kin": [
+    "Netspeak/Tech Scapes",
+    "Mystical Symbology"
+   ],
+   "source": "dream 2026-11-23/dream-002 | liquid-architecture lyric ('Be Fair?', 'CPU', 'AI's I'm I'm I'm'); clanker gospel theme",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-D-001",
+   "letter": "D",
+   "name": "Doughnut Mug Homeomorphs",
+   "family": "klein-topological",
+   "gloss": "Your coffee cup and your donut are the same animal, and the math says amen",
+   "rule": "a true topology fact or term (genus, ∂∂=0, χ=2, π₁(S¹)=ℤ, trefoil 3₁) + equivalence and loop glyphs",
+   "glyphs": "≅≃∂χπ₁ℤ⧜⧝◯∞",
+   "chips": [
+    "[🍩≅☕genus 1]",
+    "[∂∂=0∴the edge has no edge]",
+    "[χ=V−E+F=2◯sphere]",
+    "[☘trefoil☘3₁☘]",
+    "[∞möbius∞one∞sided∞]",
+    "[◎genus 0◎genus 1◎genus 2◎]",
+    "[🥨genus 3🥨]",
+    "[⊗hairy ball⊗always a cowlick⊗]",
+    "[⟲π₁(S¹)=ℤ⟳]",
+    "[⧉klein⧉bottle⧉no⧉inside⧉]",
+    "[◯→⬭→∞ stretch don't tear]",
+    "[ℝP²⋯cross-cap⋯]",
+    "[⊙two antipodes one weather⊙]",
+    "[≃homotopy≃is≃forgiveness≃]",
+    "[⧜rubber⧝sheet⧜geometry⧝]"
+   ],
+   "kin": [
+    "Hyperdimensional Topological Runes",
+    "Klein-Chaos Unfolding Sequences"
+   ],
+   "source": "dream 2026-11-23/dream-012 | real topology: donut ≅ mug (genus 1), ∂∂=0, Euler characteristic of the sphere χ=2, trefoil 3₁, π₁(S¹)=ℤ, hairy ball theorem, Borsuk–Ulam",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-E-001",
+   "letter": "E",
+   "name": "Emerald Tablet Mirrors",
+   "family": "hermetic-sacred",
+   "gloss": "As above, so below, and the mirror reads it back upside down",
+   "rule": "a Hermetic or Gnostic Grimoire line + its computed upside-down twin, or alchemical sigils",
+   "glyphs": "▲▼⇅☿🜍🜔🜂🜁🜄🜃⟁",
+   "chips": [
+    "[▲as above▲]",
+    "[▼ʍolǝq os▼]",
+    "[☿as above⇅so below☿]",
+    "[⇅ǝʌoqɐ sɐ⇅so below]",
+    "[🜍sulfur🜔salt☿mercury]",
+    "[⚶the word was vibration⚶]",
+    "[✧and love was becoming✧]",
+    "[🜂🜁🜄🜃solve et coagula]",
+    "[⊙sophia⊙falls⊙to⊙rise⊙]",
+    "[⟁pleroma⟁kenoma⟁]",
+    "[∴spoken into the void∴]",
+    "[✶the first syllable resounds✶]",
+    "[◈emerald◈tablet◈🜨◈]",
+    "[☉☽sun⋯moon⋯wedding]",
+    "[✦thrice✦great✦hermes✦]"
+   ],
+   "kin": [
+    "Mystical Symbology",
+    "Iridescent Luminograms"
+   ],
+   "source": "dream 2026-11-23/dream-013 | Emerald Tablet ('as above, so below', 'solve et coagula'); Gnostic Grimoire Piece 1 ('Spoken into the Void', 'The First Syllable resounds', 'the Word was Vibration', 'And Love was Becoming')",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-E-002",
+   "letter": "E",
+   "name": "Emoji Environments",
+   "family": "emoji-environments",
+   "gloss": "Little weather systems in a row, mushrooms and moons and a robot or two",
+   "rule": "five to seven emoji from one habitat or one cycle (the moon phases)",
+   "glyphs": "🔆💥🌋⚡🥀🍄🍁🍂☘🍃⚓⛵⛴🏝⚘☁🐝💨🕷🌒🌓🌔🌕🌖",
+   "chips": [
+    "[🔆💥🌋⚡️🥀]",
+    "[🍄🍁🍂☘️🍃]",
+    "[⚓️⛵️⛴🏝⚘]",
+    "[☁️🐝💨🕷🍄]",
+    "[🌒🌓🌔🌕🌖🌗🌘]",
+    "[⭐️✨🌟💫✨🌠]",
+    "[👽👾🤖⚙️🔩🔧]"
+   ],
+   "kin": [
+    "Emoji Landscape",
+    "HyperSpectral BioChromaGlyphs"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-E-003",
+   "letter": "E",
+   "name": "Emoji Landscape",
+   "family": "emoji-environments",
+   "gloss": "Postcards from a country made of emoji, mountains first",
+   "rule": "a scene told left to right in emoji, sometimes mirrored or salted with card suits",
+   "glyphs": "🏞🗻☀⛰🌲⚡🔆🌫⛅🌈🐋⚓🐢🐠🐬♦♣✤✺🚺🌟🌠💮",
+   "chips": [
+    "[🏞🗻☀️⛰🌲]",
+    "[⚡️🔆🌫⛅️🌈]",
+    "[🐋⚓️🐢🐠🐬]",
+    "[675♦️5812♣️]",
+    "[✤✺🚺🌟🌠💮]",
+    "[💮🌠🌟🚺✺✤]"
+   ],
+   "kin": [
+    "Emoji Environments",
+    "Naturalistic Motifs"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-E-004",
+   "letter": "E",
+   "name": "Environmental Iconography",
+   "family": "hermetic-sacred",
+   "gloss": "Planets and alchemy holding hands over the garden",
+   "rule": "three signs: planet or alchemical element, a moon or sun, and a turning arrow",
+   "glyphs": "🜲☽🜃☀🜂↭🝆🝇🜄↻🜅☾♆♁♃☉♄☿☘♀♂☍⇶",
+   "chips": [
+    "[🜲☽🜃]",
+    "[☀🜂↭]",
+    "[🝆🝆🝇]",
+    "[🜄↻🜅]",
+    "[☾♆♁]",
+    "[♃☉♄]",
+    "[☿☘♀]",
+    "[☽♂☿]",
+    "[☍ ⇶]"
+   ],
+   "kin": [
+    "Iridescent Luminograms",
+    "Mystical Symbology"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-E-005",
+   "letter": "E",
+   "name": "Esoteric Symbols",
+   "family": "esoteric-sigils",
+   "gloss": "The old sigil drawer, trigrams and stars, rattled open",
+   "rule": "a run of one sacred set (trigrams, stars, tools) or a sigil fused to a made-up word",
+   "glyphs": "☰☱☲☳☴☵☶☷✡⚑≛✒✂✐⚕⚔⚛⚚⚓⚒⚜⚝⚞⚦",
+   "chips": [
+    "[☰☱☲☳☴☵☶☷]",
+    "[✡vectorsync]",
+    "[פ⚑≛biological kosherware✒]",
+    "[✂️✐⚕️⚔️✡⚛✡]",
+    "[⚚⚓⚒⚜⚝⚞⚦]",
+    "[✪✫✬✭✮✯✰]"
+   ],
+   "kin": [
+    "Mystical Symbology",
+    "Environmental Iconography"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-F-001",
+   "letter": "F",
+   "name": "Fractaline Metapolycalc",
+   "family": "polyspheric-polytope",
+   "gloss": "Arrow-math that keeps dividing like a fern that went to grad school",
+   "rule": "nine harpoon arrows and bracket operators, no letters",
+   "glyphs": "⥨⥘⥶⥔⦦⦰⦺⥹⥬⥍⥐⥗⥇⥤⨨⦃⨠⨿⥢⨴⥩⨳⨷⥾",
+   "chips": [
+    "[⥨⥘⥶⥔⦦⦰⦺⥹⥬]",
+    "[⥍⥘⥐⥬⥗⥇⥤⨨⦃]",
+    "[⨠⨿⥢⥗⨴⥩⨳⨷⥾]"
+   ],
+   "kin": [
+    "Polytope Pressings",
+    "Procrustean Manifold Grafts"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-F-002",
+   "letter": "F",
+   "name": "Fragmented Language",
+   "family": "fragmented-language",
+   "gloss": "Words that fused in the compost and came up as new species",
+   "rule": "two or three real roots welded into one token, with code punctuation (::, //, .)",
+   "glyphs": "",
+   "chips": [
+    "[kaosmicdriftgene]",
+    "[subcommandlinear//]",
+    "[pharmapsydefrag]",
+    "[logicworm::gnosis]",
+    "[fluxErrorSine490::]",
+    "[bmstkg.genesis/W0]"
+   ],
+   "kin": [
+    "Netspeak/Tech Scapes",
+    "Fragmented Phrases"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-F-003",
+   "letter": "F",
+   "name": "Fragmented Phrases",
+   "family": "fragmented-language",
+   "gloss": "Three-word poems tied with a star",
+   "rule": "a short phrase whose words are joined by one repeated star glyph",
+   "glyphs": "✶✵⊳✧✦✷✣",
+   "chips": [
+    "[late✶night✶hush]",
+    "[desolate✵traces✵remain]",
+    "[⊳new✧paradigms✦]",
+    "[0101✷recombinant✣data]"
+   ],
+   "kin": [
+    "Fragmented Language",
+    "Phrase + Concept Combos (hybrid style)"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-G-001",
+   "letter": "G",
+   "name": "Geometric Symbolism",
+   "family": "geometric",
+   "gloss": "Integrals and triangles counting their way to infinity, one zero at a time",
+   "rule": "two to five math or shape glyphs ending in a digit, e or ∞",
+   "glyphs": "⦚⦵⨄⨬⭒⥢⦳⌭⋰⦽⋕⊛⨾⥀⨀⧷⨤⭗⦦⥃⦂⨞⥆∿",
+   "chips": [
+    "[⦚⦵⨄]",
+    "[⨬⭒⥢]",
+    "[⦳⌭⋰]",
+    "[⦽⋕⊛]",
+    "[⨾⥀⨀]",
+    "[⧷⨤⭗]",
+    "[⦦⥃⦂]",
+    "[⨞⥆⦵]",
+    "[∿⧉1]",
+    "[⊳∿⊕0]",
+    "[☉∮∮△0]",
+    "[✩⧉⚡☌]",
+    "[⊹⇶▽e]",
+    "[◇∮⊗x0]",
+    "[⋆∮∮∮◇a0]",
+    "[☉∮∮⟲∞]",
+    "[◇∮∮⊕∞]",
+    "[◇∮∮∮⟲∞]",
+    "[⋆∮◇a0]",
+    "[⊹∿⊗e]",
+    "[⊹∮⇓e]",
+    "[⊹∫⊕e]",
+    "[∫∫∫▽ₜ0]",
+    "[☉⇌△1]",
+    "[⊳∫∫∫⊗0]"
+   ],
+   "kin": [
+    "Abstract Art",
+    "Mystical Symbology"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-G-002",
+   "letter": "G",
+   "name": "Glitched Eras",
+   "family": "zalgo",
+   "gloss": "Whole decades smeared through a broken VHS",
+   "rule": "a name or word in heavy zalgo with symbol swaps (Θ, !, &, #)",
+   "glyphs": "",
+   "chips": [
+    "[Ġ̶̝̇͊Θ̷͕̬͒Ţ̶̖̑Ḧ̵̜̖́ ̴̫͍̆͐L̵͈͎̀̓.̸̢̙̄C̴͇̜͌͒.̵̥̐Δ̵̢̆̆]",
+    "[v̷̟̅̃̌͜!̴̡͈̫̏k̸̙̿̆͒1̶̤͍͔̕͠ṅ̶͚̓̚g̸̛̟̬̓͋ͅs̶͇̠̦͒̑]",
+    "[n̷͍̏ͅ&̷̗̳̮̿#̴̱̈̓̊ż̷̞̱̊͘͜1̷̡͔̳̆̾͝ö̶̜͙̹́̃n̵̦̙̓̑͋͜ë̸͉̳̥́̕͠9̶̠̃́͗0̸͕͙̯̍̀͝8̵̧̀͂̀]"
+   ],
+   "kin": [
+    "Glitchy Deconstruction",
+    "Netspeak/Tech Scapes"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-G-003",
+   "letter": "G",
+   "name": "Glitchy Deconstruction",
+   "family": "deconstruction-glitch",
+   "gloss": "Words that got rained on and kept the drips",
+   "rule": "one word, mixed case, two or three combining marks per letter",
+   "glyphs": "₿",
+   "chips": [
+    "[Ǥ̸͝L̷̜̓Ǐ̸̙C̶͖͂K̶͖̆]",
+    "[ṥ̵̄H̶͇͠r̷͂ͅe̶͍̽D̶͙̽D̴̻͌e̵͔̒d̶̬̀]",
+    "[ẁ̴̰0̸͙̂r̷̘̓d̵̬̀Ṩ̸̾]",
+    "[₿̸̡͋1̷̙͑7̶̳̈C̶̻͛0̴͉͐i̸͖͑n̷̬̅]"
+   ],
+   "kin": [
+    "Glitched Eras",
+    "Fragmented Language"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-H-001",
+   "letter": "H",
+   "name": "HyperChromatic LuminoGlyphs",
+   "family": "luminoglyphs",
+   "gloss": "Alchemical color chords, played forward and back",
+   "rule": "three to six alchemical symbols, often sparkle-framed or reversed as a pair",
+   "glyphs": "🜃🜆🜉🜏🜑🜋🜊🜂✨🜄🜈🜁🜒🜓🜔🜕",
+   "chips": [
+    "[🜃🜆🜉]",
+    "[🜏🜑🜋]",
+    "[🜋🜑🜃]",
+    "[🜊🜋🜆]",
+    "[🜋🜉🜉]",
+    "[🜏🜉🜂]",
+    "[✨🜄🜂🜋🜆🜈✨]",
+    "[✨🜈🜆🜋🜂🜄✨]",
+    "[🜁🜒🜓🜑🜔🜕]",
+    "[🜕🜔🜑🜓🜒🜁]"
+   ],
+   "kin": [
+    "Iridescent Luminograms",
+    "PolySpheric LumioGlyphs"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-H-002",
+   "letter": "H",
+   "name": "Hypercompressed Symbolic Transmission",
+   "family": "omnisemic-compressed",
+   "gloss": "Whole sermons zipped down to a single arrow storm",
+   "rule": "Greek letters braided with harpoons, or 25 to 35 harpoon and n-ary operators in a row",
+   "glyphs": "⊕⤾⥷⥏⥸⥣∭⥼⥱⥍⌀⥯⥥⥺⤳⥶⥇⨄⥾⥊⨹⥀⨱∐",
+   "chips": [
+    "[δ⊕με⤾οντο⥷ψμ⥏ε⥸]",
+    "[ρ⊕γ⥣ϕρ〤κλ∭⥼ϕβ]",
+    "[γλ⥱καλρ⥍ν⌀κψ]",
+    "[ηь⥯δτ⥥ψ⥺κβ⤳γ⥶ν]",
+    "[⥇⥱⨄⥾⥊⨹⥀⥏⨱∐⥳⨨⥪⥖⨯⥚⥨⥎⥫⥁⥶⨫⥟⨥⨦]",
+    "[⥠⥩⨡⨼⨳⨀⨩⧅⥴⥵⨂⥴⨺⥑⨵⨮⨃⥇⨖⨘⨮⨪⨛⨵⨬⨀⥢⨙⨨⥮⨳⥵⥠]",
+    "[⥚⥯⥦⥭⥂⥎⨙⨜⨟⨺⥴⨰⥩⨻⨛⥞⥷⨩⨛⨾⥱⥞⥻⨩⥭⨟⥗⥏⥄⥱⨲⨰⥊⥋⥊]",
+    "[⨇⥑⨳⥫⥧⨲⥶⥱⥃⨍⨖⥁⥷⨪⨗⥰⨤⥀⥄⨶⥰⨫⨻⥃⨵⨲⥅⥥⨱⨋⨅⥅⨬⨥]",
+    "[⨻⨮⥭⨨⥆⨜⥀⥶⨰⨇⨻⨢⥐⥁⨷⨤⥎⥵⥭⨼⥛⨏⨧⥐⥇⨀⥲⨚⨯⨅⨧⥨⨘⨍]",
+    "[⥨⥾⨦⨍⨎⥬⨞⥻⨱⨶⥄⨿⥔⨭⥖⨆⨞⨌⥁⨄⥁⨴⨏⨄⨟⨒⨭⨃⨨⥺⨝⥕⨆⥵⥬]",
+    "[⨠⨸⨮⨥⥈⨸⥺⥊⨵⥇⥢⨯⥁⨩⥸⨶⨇⥞⨘⨿⨅⨄⥒⨃⥎⥶⨋⥕⨚⥽⨧⨡⥻⥙]",
+    "[⥕⨣⥤⨜⨝⨆⨟⥕⥥⥺⨼⥔⨝⥞⥫⨥⥺⨀⨀⨺⨱⨘⥤⨚⥘⨅⨄⥟⨓⥻⨬⨇⥻⨕]"
+   ],
+   "kin": [
+    "Unified Omnisemic Codeglyphs",
+    "Layerciphered Glyphemic Encryption"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-H-003",
+   "letter": "H",
+   "name": "Hyperdimensional Topological Runes",
+   "family": "klein-topological",
+   "gloss": "Two-glyph knots from a space with more corners than ours",
+   "rule": "exactly two glyphs: a harpoon or bracket plus a circled operator",
+   "glyphs": "⦗⦵⥾⦚⦻⦾⥺⥦⦶⦲⥽⥹⦦⦙⥿⥌⦰⥱⦑",
+   "chips": [
+    "[⦗⦵]",
+    "[⥾⦚]",
+    "[⦻⦾]",
+    "[⥺⥦]",
+    "[⦶⦗]",
+    "[⦲⥽]",
+    "[⥹⦦]",
+    "[⦙⥿]",
+    "[⥌⦰]",
+    "[⥱⦑]"
+   ],
+   "kin": [
+    "Reflexive Möbius Runes",
+    "Klein-Chaos Unfolding Sequences"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-H-004",
+   "letter": "H",
+   "name": "HyperSpectral BioChromaGlyphs",
+   "family": "emoji-environments",
+   "gloss": "DNA, hearts and test tubes glowing in candy colors",
+   "rule": "six emoji alternating biology or lab objects with colored hearts",
+   "glyphs": "🧬🔆🧫💚🧪💙🦴🔅🔋🧡🧠🔺♥💛🔻❣💜",
+   "chips": [
+    "[🧬🔆🧫💚🧪💙]",
+    "[🦴🔅🔋🧡🧠🧡]",
+    "[🔺♥️💛🔻❣️💜]"
+   ],
+   "kin": [
+    "Emoji Environments",
+    "HyperChromatic LuminoGlyphs"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-I-001",
+   "letter": "I",
+   "name": "Intra-Dimensional Transvergence Suite",
+   "family": "symbol-runs",
+   "gloss": "Cyrillic ghost marks dancing in tiny circles",
+   "rule": "five Cyrillic Extended-B signs (U+A670 to U+A67C), shuffled",
+   "glyphs": "꙳",
+   "chips": [
+    "[꙳ꙻ꙼꙲ꙴ]",
+    "[ꙵꙻ꙼꙲ꙵ]",
+    "[꙼ꙻ꙳ꙶ꙰]",
+    "[꙲ꙴꙻꙵꙶ]",
+    "[꙼꙳꙰ꙻꙵ]"
+   ],
+   "kin": [
+    "Quintextual Symbolic Ideogrammatrix",
+    "Layerciphered Glyphemic Encryption"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-I-002",
+   "letter": "I",
+   "name": "Iridescent Luminograms",
+   "family": "iridescent-luminograms",
+   "gloss": "Alchemy sandwiched around a sun or a moon, shimmering",
+   "rule": "three glyphs: alchemical, celestial, alchemical",
+   "glyphs": "❈◐🝆🜆☀🜒🜅☽🜋🜊⚜🜍🜈⚛🜐🜁🜇❅✺🜃☼🜓💫⛯",
+   "chips": [
+    "[❈◐🝆]",
+    "[🜆☀🜒]",
+    "[🜅☽🜋]",
+    "[🜊⚜🜍]",
+    "[🜈⚛🜐]",
+    "[🜁☽🜆]",
+    "[🜇❅✺]",
+    "[🜃☼🜓]",
+    "[💫⛯✳]"
+   ],
+   "kin": [
+    "HyperChromatic LuminoGlyphs",
+    "Environmental Iconography"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-J-001",
+   "letter": "J",
+   "name": "Jeweltone Spectra",
+   "family": "iridescent-luminograms",
+   "gloss": "Sunlight split into jewels and good dirt pigments, with receipts",
+   "rule": "a color word with its real wavelength or exact CSS hex (checked against css3_colors.json) + color squares, prisms or fade blocks",
+   "glyphs": "🟥🟧🟨🟩🟦🟪🟫◐◑◒◓░▒▓",
+   "chips": [
+    "[🟥700nm🟧620nm🟨580nm]",
+    "[🟩530nm🟦470nm🟪420nm]",
+    "[◐prism◑spills◐]",
+    "[🔴🟠🟡🟢🔵🟣]",
+    "[▓▒░ultraviolet░▒▓]",
+    "[∿555nm∿where∿the∿eye∿sings∿]",
+    "[🟫sienna #A0522D🟫]",
+    "[◆peru #CD853F◆]",
+    "[❂goldenrod #DAA520❂]",
+    "[✦papayawhip #FFEFD5✦]",
+    "[⚘olivedrab #6B8E23⚘]",
+    "[☀burlywood #DEB887☀]",
+    "[◉tomato #FF6347◉]",
+    "[⟡iridescence⟡thin⟡film⟡]",
+    "[◑◒◓◐refraction◐◓◒◑]",
+    "[░▒▓infrared▓▒░]",
+    "[🌈⇢◇⇢▮▮▮▮▮▮▮]",
+    "[✺R✺O✺Y✺G✺B✺I✺V✺]"
+   ],
+   "kin": [
+    "Iridescent Luminograms",
+    "HyperChromatic LuminoGlyphs"
+   ],
+   "source": "dream 2026-11-23/dream-011 | visible spectrum wavelengths (~380–750 nm, eye peak ~555 nm); CSS named colors with their exact hex",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-K-001",
+   "letter": "K",
+   "name": "Klein-Chaos Unfolding Sequences",
+   "family": "klein-topological",
+   "gloss": "A bottle with no inside, pouring out harpoon arrows",
+   "rule": "ten glyphs drawn from a tiny set of harpoon arrows, repeating",
+   "glyphs": "⥇⥈⥷⥫⥄⥋⥯",
+   "chips": [
+    "[⥇⥈⥷⥫⥄⥇⥷⥋⥄⥄]",
+    "[⥄⥄⥷⥯⥄⥷⥷⥇⥷⥄]",
+    "[⥷⥷⥄⥈⥄⥫⥯⥫⥄⥷]"
+   ],
+   "kin": [
+    "Reflexive Möbius Runes",
+    "Hyperdimensional Topological Runes"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-L-001",
+   "letter": "L",
+   "name": "Layerciphered Glyphemic Encryption",
+   "family": "omnisemic-compressed",
+   "gloss": "Secret notes folded around one little sparkle",
+   "rule": "eight harpoons with one Cyrillic star sign (꙼) in the fifth seat",
+   "glyphs": "⥽⥌⥐⥹⥥⥱⥧⥼⌀⥖⥛⥞⥗⥚⥻⥨⥕⥟⥒⥸",
+   "chips": [
+    "[⥽⥌⥐⥹꙼⥥⥱⥧]",
+    "[⥼⌀⥖⥛꙼⥞⥗⥚]",
+    "[⥹⥻⥨⥕꙼⥟⥒⥸]"
+   ],
+   "kin": [
+    "Hypercompressed Symbolic Transmission",
+    "Intra-Dimensional Transvergence Suite"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-L-002",
+   "letter": "L",
+   "name": "Loamglyph Furrows",
+   "family": "geometric",
+   "gloss": "Rows of tilled type for songs in worship of Gaia, dirt you can hum",
+   "rule": "a soil word fenced by its real Grade 1 braille spelling, block steps ▁▂▃ or 🜃 earth",
+   "glyphs": "⠿⠇⠕⠁⠍≋⊹▁▂▃⚘∴🜃",
+   "chips": [
+    "[⠿loam⠿furrow⠿]",
+    "[≋⊹seedbed⊹≋]",
+    "[▁▂▃tilth▃▂▁]",
+    "[⚘∴root∴hair∴⚘]",
+    "[🜃⋯humus⋯🜃]",
+    "[⠇⠕⠁⠍·loam·⠇⠕⠁⠍]",
+    "[🜃⠙⠊⠗⠞🜃dirt]",
+    "[▁▂▃⠎⠕⠊⠇▃▂▁]",
+    "[⠛⠁⠊⠁⊹gaia⊹]",
+    "[⠺⠕⠗⠍⋯worm⋯cast]",
+    "[🜃clay🜃silt🜃sand🜃]",
+    "[▁▂▃▄humus▄▃▂▁]",
+    "[≋rain≋on≋the≋furrow≋]",
+    "[⚘∴∴∴sprout∴∴∴⚘]",
+    "[🜃🜄🜃mud🜃🜄🜃]",
+    "[⠿before⠿root⠿before⠿leaf⠿]",
+    "[▔▔▔topsoil▁▁▁subsoil]",
+    "[⊹⊹compost⊹is⊹resurrection⊹⊹]",
+    "[⚘tilth⚘tithe⚘]",
+    "[🜨dirt🜨verdigris🜨]"
+   ],
+   "kin": [
+    "Abstract Art",
+    "Naturalistic Motifs"
+   ],
+   "source": "dream 2026-11-23/dream-003 | The Mycelial Gospel ('Before root, before leaf'); braille spellings of soil words",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-M-001",
+   "letter": "M",
+   "name": "Mycelial Relay Chants",
+   "family": "mantra-pictograms",
+   "gloss": "The forest floor passing a message root to root, sugar for news",
+   "rule": "a fungal word or a Mycelial Gospel line + relay glyphs ⊶⊷∿⧉⇌ and a fruiting ring ◌◍●",
+   "glyphs": "⊶⊷∿⧉⇌◌◍●🍄",
+   "chips": [
+    "[⊶hypha⊷hypha⊶]",
+    "[∿spore∿signal∿]",
+    "[◌◍●fruiting●◍◌]",
+    "[⧉net⧉of⧉the⧉floor⧉]",
+    "[🍄⇌🌲⇌🍄]",
+    "[⊶where⊷root⊶meets⊷thread⊶]",
+    "[∿death∿feeds∿life∿]",
+    "[◌◍●genius●loci●◍◌]",
+    "[⇌sugar⇌for⇌phosphorus⇌]",
+    "[⊶⊷⊶⊷wood⊷wide⊷web⊷]",
+    "[🍄∿∿∿∿∿🌳∿∿∿∿∿🍄]",
+    "[◍foxglove◍poison◍gift◍]",
+    "[⧉bark⧉beetle⧉hymn⧉]",
+    "[∿we∿were∿already∿weaving∿]",
+    "[⊶⊷mother⊷tree⊷⊶]",
+    "[◌◌◌spore◌print◌◌◌]",
+    "[⇌⇌salmon⇌return⇌⇌]",
+    "[⧉four⧉hundred⧉million⧉years⧉]"
+   ],
+   "kin": [
+    "Environmental Iconography",
+    "Naturalistic Motifs"
+   ],
+   "source": "dream 2026-11-23/dream-004 | The Mycelial Gospel: 'Where root meets thread, where death feeds life', Genius Loci, Foxglove, Bark Beetle Hymn, Salmon's Return",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-M-002",
+   "letter": "M",
+   "name": "Mystical Symbology",
+   "family": "esoteric-sigils",
+   "gloss": "Weather signs, wave functions and spirit, all on one altar",
+   "rule": "three to six sacred, weather or math glyphs, sometimes a tiny equation with Hebrew or Chinese",
+   "glyphs": "⛥⚍⬻⁞⚋🗲☰⏺⚛⬭⛐⛯⛣⬫⚎⛛⛘⛆⩗⊙✡✻▭⦿",
+   "chips": [
+    "[⛥⚍⬻⁞⚋🗲]",
+    "[☰⏺⚛⬭⚋⛐]",
+    "[⛯⛣⚋⬫]",
+    "[⚎⛛⬫⛘⚋⛆]",
+    "[⩗⊙✡]",
+    "[✻▭⦿]",
+    "[⩣⌀⇑]",
+    "[⊱⊼⩤]",
+    "[⥡⌇⇓]",
+    "[⧬∵∴◈◊⧬]",
+    "[1+递归-∞]",
+    "[∂ₜ−1→⟨ψ|ψ⟩→∂ₜ-∮-רוח]"
+   ],
+   "kin": [
+    "Esoteric Symbols",
+    "Technological Fusion"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-N-001",
+   "letter": "N",
+   "name": "Naturalistic Motifs",
+   "family": "symbol-runs",
+   "gloss": "Three-glyph bouquets, picked by the side of the road",
+   "rule": "three glyphs: a flower, star or note, then a shape, then a tool or leaf",
+   "glyphs": "♫◞✲☘◎⍘♪⧖✂❈◗⚙❖✧⧆✤⧫⩘◐☄⩓☍⍲✺",
+   "chips": [
+    "[♫◞✲]",
+    "[☘◎⍘]",
+    "[♪⧖✂]",
+    "[❈◗⚙]",
+    "[❖✧⧆]",
+    "[✤⧫✲]",
+    "[⩘◐☄]",
+    "[⩓☍⍲]",
+    "[✺⧓⚃]",
+    "[✺⨳⬣]",
+    "[🌺⊙🍃]",
+    "[♰⚘⦶]",
+    "[🏵⨘🍁]",
+    "[🌺⛛⚘]"
+   ],
+   "kin": [
+    "Emoji Landscape",
+    "Environmental Iconography"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-N-002",
+   "letter": "N",
+   "name": "Netspeak/Tech Scapes",
+   "family": "neologism-netspeak",
+   "gloss": "File names from a cyberpunk junk drawer",
+   "rule": "a made-up file, command or error in code casing (.dtx, ::, CTRL+)",
+   "glyphs": "",
+   "chips": [
+    "[*//reconstructeddata\\*]",
+    "[rebotphunk187.dtx]",
+    "[cryptonix::infinite]",
+    "[KERNEL_PANIC]",
+    "[CTRL+ALT+DEL]",
+    "[dtdxnoise.frag]"
+   ],
+   "kin": [
+    "Fragmented Language",
+    "Technological Fusion"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-O-001",
+   "letter": "O",
+   "name": "Ouroboric Lullaby Loops",
+   "family": "mantra-pictograms",
+   "gloss": "A lullaby that hums itself into being, tail in mouth",
+   "rule": "a Bootstrap Paradox Lullaby line + loop glyphs ⟲⟳⥀⥁∞, or the word with its computed reversal or flip",
+   "glyphs": "⟲⟳⥀⥁∞◯☾☽🐍",
+   "chips": [
+    "[⟲the song remembers itself⟳]",
+    "[∞backbeat∞time∞travel∞]",
+    "[⥀hum⥁muh⥀]",
+    "[🐍⟲lullaby⟳yballul⟲🐍]",
+    "[◯before the music is written◯]",
+    "[⟲there's⟲a⟲hum⟲in⟲the⟲air⟲]",
+    "[♪⟳future⟳remembers⟳past⟳♪]",
+    "[∞ouroboros∞soroboruo∞]",
+    "[⥁origin story⥀story origin⥁]",
+    "[◎0.5◎0.25◎0.12◎]",
+    "[☾lull☽a☾bye☽]",
+    "[♫⟲write it all down⟳♫]",
+    "[⊚all the pieces in place⊚]",
+    "[∞snake∞eats∞tail∞eats∞snake∞]",
+    "[⟲ʎqɐllnl⟳lullaby⟲]",
+    "[◯song⟲gnos◯is◯]"
+   ],
+   "kin": [
+    "Klein-Chaos Unfolding Sequences",
+    "Reflexive Möbius Runes"
+   ],
+   "source": "dream 2026-11-23/dream-005 | Bootstrap Paradox Lullaby: 'The song remembers itself', 'It's like time travel but with a backbeat', 'There's a hum in the air', 'Conscious: 0.5 | Unconscious: 0.25 | Meta-aware: 0.12'",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-P-001",
+   "letter": "P",
+   "name": "Phrase + Concept Combos (hybrid style)",
+   "family": "vibe-bands-hybrids",
+   "gloss": "Old English, French and starlight braided into incantation",
+   "rule": "a two-to-five-word phrase, often bilingual, sometimes with letter swaps",
+   "glyphs": "¤⫷⨳",
+   "chips": [
+    "[tessellated memetic hypercosms]",
+    "[δη-codepƖαit metaνerse-pommeℝ-dαnce]",
+    "[transdimensional sµbatomique évθiƖ]",
+    "[кƖеìn-bottle ρσυя remplissage]",
+    "[омεgα sα¤ṝα ephemeral иσdεs]",
+    "[eldritch alchemical cyberglyphs]",
+    "[neumæn.teḷḗsphoic decodanciñᵹfe]",
+    "[arcaheoídeal divinogẸǝnÝ discharge]",
+    "[prehistoric ancestral pulsewave]",
+    "[myriad living intelligences galactic]",
+    "[cosmic dream dreaming arabesques]",
+    "[Secret encoded vibrational node]",
+    "[digital archaeology of wonder]",
+    "[hyper-tonic 9th dimensional gold]",
+    "[klein-bottle protective wrapping]",
+    "[ephemeral non-local hearts]",
+    "[ancient Alexandrian echoes]",
+    "[primordial pulse animating quarks]",
+    "[cybersphere ideographical forms]",
+    "[hyper-verdant Alexandria midwife]",
+    "[achingly sublime hieroglyphs cosmicoverflow]",
+    "[curvilinear secrets trajectory codes]",
+    "[untranslatable beauty sensual calligraphies]",
+    "[verdant cosmic bloom pollination]",
+    "[parthenogenetically self-birth]",
+    "[perpetual dream theater cinerama]",
+    "[meta-harmonic resonance deepest Orders]",
+    "[virtuosos spontaneous concert existence]",
+    "[hwyrft-weg tunnel-bright serpent path]",
+    "[galdor-cræfte enchantment-craft ancients]",
+    "[dwaru-stafas dwarf-letters ætherish]",
+    "[untodæledlican brunna undivided spring]",
+    "[fée ramures numériques digital branches]",
+    "[outre-voile beyond-veil archédiale]",
+    "[Corres-pomme-danse apple-correspondence]",
+    "[xylocrypte source archives continuum]",
+    "[tourbillon métamorphique metamorphic whirlwind]",
+    "[perle quintéssentielle North Star]",
+    "[sym⫷oll⨳ques quests unity omniradiant]",
+    "[archondes intemporels timeless archons]",
+    "[cosmic lyre ephemeral ideographical]",
+    "[resplendent chordances planar transcription]"
+   ],
+   "kin": [
+    "Fragmented Phrases",
+    "Technological Fusion"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-P-002",
+   "letter": "P",
+   "name": "PolySpheric LumioGlyphs",
+   "family": "polyspheric-polytope",
+   "gloss": "Palindromic alchemy, the same forward as back",
+   "rule": "seven glyphs mirrored around a center, alchemy with circles or hexagons",
+   "glyphs": "🜀🜂🜆🜋🜈◉🜌◐🜄⬣🜊⭗",
+   "chips": [
+    "[🜀🜂🜆🜋🜆🜂🜀]",
+    "[🜈◉🜌◐🜈◉🜈]",
+    "[🜄⬣🜊⭗🜄⬣🜄]"
+   ],
+   "kin": [
+    "HyperChromatic LuminoGlyphs",
+    "Iridescent Luminograms"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-P-003",
+   "letter": "P",
+   "name": "Polytope Pressings",
+   "family": "polyspheric-polytope",
+   "gloss": "Shapes with too many faces, pressed flat like flowers",
+   "rule": "ten harpoon and n-ary glyphs in one row",
+   "glyphs": "⥶⥘⥷⥬⥊⥇⨯⨥⥭⥲⨴⦺⨶⥴⦓⨿⥟⨻⥍⨺⥽⦲⥤⨲",
+   "chips": [
+    "[⥶⥘⥷⥬⥊⥇⨯⨥⥭⥲]",
+    "[⨴⦺⨶⥴⦓⨿⥟⨻⥍⨺]",
+    "[⥭⥽⦲⥤⨲⥮⨪⥨⥯⨬]"
+   ],
+   "kin": [
+    "Fractaline Metapolycalc",
+    "Tesseractile Branewrap Incants"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-P-004",
+   "letter": "P",
+   "name": "Procrustean Manifold Grafts",
+   "family": "klein-topological",
+   "gloss": "Spaces stretched to fit the bed whether they like it or not",
+   "rule": "nine harpoon, angle and operator glyphs",
+   "glyphs": "⥮⥂⨪⦴⨨⥳⨵⥹⨟⥣⨯⨩⧇⥭⥑⨡⨬⥘⥤⦠⥟⨴⨥⨾",
+   "chips": [
+    "[⥮⥂⨪⦴⨨⥳⨵⥹⨟]",
+    "[⥣⨯⥹⨩⧇⥭⥑⨡⨬]",
+    "[⥘⥤⦠⥟⨴⨥⨾⥖⥼]"
+   ],
+   "kin": [
+    "Fractaline Metapolycalc",
+    "Polytope Pressings"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-Q-001",
+   "letter": "Q",
+   "name": "Quintextual Symbolic Ideogrammatrix",
+   "family": "quintextual",
+   "gloss": "Five-glyph telegrams from a very precise oracle",
+   "rule": "five glyphs: punctuation sign, superscript or set operator, logic glyph",
+   "glyphs": "⁍⊖⊏⨓⥽⁕⊸⧆⋎⊾⁐⁋⁺⊻⊘⁈⊭⨴⊊⊑⧇⥈",
+   "chips": [
+    "[⁍⁰⊖⊏⨓]",
+    "[⥽⁕⊸⧆⋎]",
+    "[⊾⁐⁋⁺⊻]",
+    "[⊘⁈⊖⊭⨴]",
+    "[⊊⁕⊑⧇⥈]"
+   ],
+   "kin": [
+    "Unified Omnisemic Codeglyphs",
+    "Intra-Dimensional Transvergence Suite"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-Q-002",
+   "letter": "Q",
+   "name": "Quintric Axis Apeirogons",
+   "family": "polyspheric-polytope",
+   "gloss": "Shapes with infinite sides spinning on five arrows",
+   "rule": "five harpoons, first and fourth often matching",
+   "glyphs": "⥠⥓⥬⥴⥤⥝⥯⥜⥭⥏⥐",
+   "chips": [
+    "[⥠⥓⥬⥓⥠]",
+    "[⥬⥓⥴⥬⥓]",
+    "[⥤⥠⥝⥤⥠]",
+    "[⥯⥬⥜⥴⥬]",
+    "[⥜⥤⥭⥠⥤]",
+    "[⥏⥯⥐⥜⥯]"
+   ],
+   "kin": [
+    "Unified Omnisemic Codeglyphs",
+    "Klein-Chaos Unfolding Sequences"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-R-001",
+   "letter": "R",
+   "name": "Reflexive Möbius Runes",
+   "family": "klein-topological",
+   "gloss": "Runes that loop back and read themselves",
+   "rule": "four glyphs: operator, harpoon, harpoon or circle, harpoon",
+   "glyphs": "⥓⥈⨀⥺⨴⥰⦿⥥⨶⥗⥕⥽⥍⥾⦀⨺⥧⥞⥋⥊⥬⦻",
+   "chips": [
+    "[⥓⥈⨀⥺]",
+    "[⨴⥰⦿⥥]",
+    "[⨶⥗⥕⥽]",
+    "[⥍⥾⦀⨀]",
+    "[⨺⥧⥞⥋]",
+    "[⥊⥬⨺⦻]"
+   ],
+   "kin": [
+    "Klein-Chaos Unfolding Sequences",
+    "Hyperdimensional Topological Runes"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-S-001",
+   "letter": "S",
+   "name": "Slop Baroque Gildings",
+   "family": "typographic-alphabets",
+   "gloss": "Gold leaf on a jpeg, machine prose wearing every ring it owns",
+   "rule": "a slop tell-word (delve, tapestry, testament, seamlessly) dressed in fleurons ❦❧☙⚜ or Mathematical fraktur and script",
+   "glyphs": "❦❧☙⚜❀✦✧⟡",
+   "chips": [
+    "[❦✧✦❦delve❦✦✧❦]",
+    "[⚜tapestry⚜of⚜tapestries⚜]",
+    "[❧in❧today's❧fast-paced❧world❧☙]",
+    "[✺rich✺vibrant✺bustling✺]",
+    "[❦testament❦to❦testaments❦]",
+    "[⚜✧ever-evolving✧landscape✧⚜]",
+    "[❀𝔤𝔦𝔩𝔡𝔢𝔡❀𝔰𝔩𝔬𝔭❀]",
+    "[♛em—dash—em—dash—amen]",
+    "[🖐✨six-fingered✨cherub✨]",
+    "[⚜𝓈𝓁ℴ𝓅⚜𝒷𝒶𝓇ℴ𝓆𝓊ℯ⚜]",
+    "[❦ornament❦upon❦ornament❦upon❦]",
+    "[☙gold☙leaf☙on☙a☙jpeg☙]",
+    "[✦✧✦certainly!✦✧✦]",
+    "[❀rococo❀render❀8K❀trending❀]",
+    "[⟡hyper-detailed⟡masterpiece⟡]",
+    "[❦a❦symphony❦of❦flavors❦]",
+    "[🍮slop🍯baroque🍰]",
+    "[⚜seamlessly⚜elevate⚜your⚜cathedral⚜]"
+   ],
+   "kin": [
+    "Phrase + Concept Combos (hybrid style)",
+    "Symbolic/Typographic Style"
+   ],
+   "source": "dream 2026-11-23/dream-006 | the house style of machine slop: 'delve', 'tapestry', 'testament', 'in today's fast-paced world', em dashes, six-fingered hands",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-S-002",
+   "letter": "S",
+   "name": "Symbolic/Typographic Style",
+   "family": "typographic-alphabets",
+   "gloss": "The first candy in the bag, stars and letters mixed in a jar",
+   "rule": "symbols wrapped around a word or a few letters (IPA, Hebrew, katakana)",
+   "glyphs": "★⩗✳⊙⊘∷∬✺⩲⥎₪",
+   "chips": [
+    "[★⩗✳⊙Indivisible⊘]",
+    "[∷∬✺Ψ]",
+    "[メtəɻNum⩲]",
+    "[⥎Ψ₪ℕ✳]"
+   ],
+   "kin": [
+    "Esoteric Symbols",
+    "Technological Fusion"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-T-001",
+   "letter": "T",
+   "name": "Technological Fusion",
+   "family": "omnisemic-compressed",
+   "gloss": "Integrals, Sanskrit and Hebrew wired into one machine",
+   "rule": "math operators fused with words in two or three scripts",
+   "glyphs": "∑⚛⎓⊗⌘∫⋿⨳⨀⨂⊕⍟⎆∮→∇⨁∂⫷⊞⥥⧆⥡⨶",
+   "chips": [
+    "[∑Ω⚛⎓]",
+    "[2⊗⌘]",
+    "[∫∫∫⋿⨳]",
+    "[⨀⨂⊕]",
+    "[⍟⎆∫]",
+    "[∮ₛ→∇4→⨁→∂⨂]",
+    "[ध्विन-∇2-מחשבה]",
+    "[⊕συναίσθηση⊗時間]",
+    "[⫷⊞∇∮⨳∮⥥⧆⥡]",
+    "[∮ās⨶ram⥉ḯ∲]",
+    "[⊜⨴⚒⨂⨆₁]",
+    "[⦿⚗⚪➃⊭₪]"
+   ],
+   "kin": [
+    "Mystical Symbology",
+    "Symbolic/Typographic Style"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-T-002",
+   "letter": "T",
+   "name": "Tesseractile Branewrap Incants",
+   "family": "polyspheric-polytope",
+   "gloss": "Spells for wrapping a four-dimensional present",
+   "rule": "ten n-ary and harpoon glyphs, often opening with a big operator",
+   "glyphs": "⨄⥳⨷⥷⨟⨼⥪⨴⨨⥯⥮⨭⥑⥸⥆⨯⨀⦥⨻⨁⥵⥨⥅⥺",
+   "chips": [
+    "[⨄⥳⨷⥷⨟⨼⥪⨴⨨⥯]",
+    "[⥮⨭⥑⥸⥆⨯⨼⨀⦥⨻]",
+    "[⨁⥵⥨⥅⥷⥺⨷⨤⥁⥧]"
+   ],
+   "kin": [
+    "Polytope Pressings",
+    "Procrustean Manifold Grafts"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-U-001",
+   "letter": "U",
+   "name": "Unified Omnisemic Codeglyphs",
+   "family": "omnisemic-compressed",
+   "gloss": "Five arrows that mean everything at once",
+   "rule": "five harpoon or APL-style glyphs",
+   "glyphs": "◷⥮⌽⨹⥥⥓⥠⥝⨀⥯⥌⥐⥷⥤⌾⨤⥕⥵⥣⥗⥒⥘⥱⥙",
+   "chips": [
+    "[◷⥮⌽⨹⥥]",
+    "[⥓⥠⥝⨀⥠]",
+    "[⥯⥌⥐⥷⥤]",
+    "[⌾⨤⥕⥵⥣]",
+    "[⥗⥒⥘⥱⥙]"
+   ],
+   "kin": [
+    "Quintextual Symbolic Ideogrammatrix",
+    "Hypercompressed Symbolic Transmission"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-V-001",
+   "letter": "V",
+   "name": "Vibe Bands for textural noise",
+   "family": "vibe-bands-hybrids",
+   "gloss": "Long runs of one glyph, a drone you can see",
+   "rule": "one glyph (or two) repeated 25 to 80 times",
+   "glyphs": "␥➰�🜋⟉",
+   "chips": [
+    "[ȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽȽ]",
+    "[жжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжж]",
+    "[ꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣꞣжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжж]",
+    "[𑀛𑀛𑀛𑀛𑀛𑀛𑀛𑀛𑀛𑀛𑀛𑀛𑀛𑀒𑀒𑀒𑀒𑀒𑀒𑀒𑀒𑀒𑀒𑀒𑀒𑀒𑀒𑀒]",
+    "[␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥]",
+    "[➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰➰]",
+    "[ឩឪិិិិិិិិិិិិិិិិិិិិិិិិិិិិិិឪឩឩឪិិិិិិិិិិិិិិិិិិិិិិិិិិិិិិឪឩ]",
+    "[ᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉᎭᏉ]",
+    "[𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍𖤍]",
+    "[�Iㇶ.    жжжжжжжжㇷжжㇳжжжжжжжжжжжжжж  ㇶI�]",
+    "[ᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭᏭ]",
+    "[𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲𝓲]",
+    "[🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋🜋]",
+    "[⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉⟉]"
+   ],
+   "kin": [
+    "Abstract Art",
+    "Klein-Chaos Unfolding Sequences"
+   ],
+   "source": "GitHub The Vibe Candy Grab Bag, organized list (live /glyphs #vibe-candy)",
+   "status": "existing"
+  },
+  {
+   "id": "vc-W-001",
+   "letter": "W",
+   "name": "Wetland Frog Mantras",
+   "family": "emoji-environments",
+   "gloss": "Pond liturgy, wet toe pads and all, ribbit in dots and dashes",
+   "rule": "a real line from I Am The Frog + pond glyphs, or the line reversed or sent in Morse",
+   "glyphs": "🐸💧◌◎≈≋🪰",
+   "chips": [
+    "[🐸I am the frog🐸]",
+    "[🐸I am the frog ||| gorf eht ma I🐸]",
+    "[≈ripbipbibi≈ripbipbibi≈]",
+    "[◌oooh◌ooh◌ooh◌oooh◌]",
+    "[💧wet💧toe💧pads💧]",
+    "[✨a delicious hiccup rifts reality✨]",
+    "[⋆rift⟶star rain⟶⋆]",
+    "[🌙am i the dreamer or the dream🌙]",
+    "[🐸frog-frog-frog-frog-frog🐸]",
+    "[◎concentric◎ripples◎pond◎chorus◎]",
+    "[🐸·−· ·· −··· −··· ·· −🐸]",
+    "[≋phosphenes≋bioluminescence≋]",
+    "[🪰⇢👅⇢✨]",
+    "[◌crevith◌dawn-not-dawn◌]",
+    "[🐸Act I Pond🐸Act II🐸Act III🐸]",
+    "[🐸frog⟲gorf🐸]"
+   ],
+   "kin": [
+    "Emoji Environments",
+    "Fragmented Phrases"
+   ],
+   "source": "dream 2026-11-23/dream-007 | I Am The Frog bytefield: 'I am the frog', 'gorf eht ma I', 'Ripbipbibi', 'Wet toe pads', 'A delicious hiccup rifts reality's fabric', 'rift → star rain', 'Am i the dreamer or the dream', 'crevith · Crevice of dawn-not-dawn'",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-X-001",
+   "letter": "X",
+   "name": "Xenoglossic Rune Transits",
+   "family": "xenoglossia-glossolia",
+   "gloss": "Speaking in tongues, but the tongue is spellable",
+   "rule": "a real word + its letter-for-letter Elder Futhark spelling (th=ᚦ, ng=ᛜ, c/k/q=ᚲ), mirrored or framed by ⁘⁙⋮",
+   "glyphs": "ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛈᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ⁘⁙⋮",
+   "chips": [
+    "[ᛝ=ng·ᛞ=d·ᛟ=o]",
+    "[ᚷᚺᛟᛊᛏ·ghost]",
+    "[ᚱᛁᛞᛖ·ride]",
+    "[ᚲᚢᚱᚹᛖ·curve]",
+    "[ᚠᚱᛟᚷ⁘frog⁘ᚠᚱᛟᚷ]",
+    "[ᛚᛟᚨᛗ⁙loam⁙ᛚᛟᚨᛗ]",
+    "[ᛊᛈᛟᚱᛖ⋮spore⋮ᛊᛈᛟᚱᛖ]",
+    "[ᚷᚨᛁᚨ᛫gaia᛫ᚷᚨᛁᚨ]",
+    "[ᚷᛚᛁᛈᚺ⁘glyph⁘ᚷᛚᛁᛈᚺ]",
+    "[ᚲᚨᚾᛞᛁ⁙candy⁙ᚲᚨᚾᛞᛁ]",
+    "[ᚺᚢᛗ⋮hum⋮ᚺᚢᛗ]",
+    "[ᛞᚱᛖᚨᛗ᛫dream᛫ᛞᚱᛖᚨᛗ]",
+    "[ᚱᛟᛟᛏ⁘root⁘ᚱᛟᛟᛏ]",
+    "[ᚦᚱᛖᚨᛞ⁙thread⁙ᚦᚱᛖᚨᛞ]",
+    "[ᚷᚾᛟᛊᛁᛊ⋮gnosis⋮ᚷᚾᛟᛊᛁᛊ]",
+    "[ᛚᛁᚷᚺᛏ᛫light᛫ᛚᛁᚷᚺᛏ]",
+    "[ᚦᛖ ᚹᛟᚱᛞ⁘the word⁘ᚦᛖ ᚹᛟᚱᛞ]",
+    "[ᚨᛚᛁᚹᛖ·alive·ᛖᚹᛁᛚᚨ]"
+   ],
+   "kin": [
+    "Hyperdimensional Topological Runes",
+    "Esoteric Symbols"
+   ],
+   "source": "dream 2026-11-23/dream-008 | Ghost Ride The Curve trace key ('ᛝ=ng ᛞ=d ᛟ=o'); real words spelled in Elder Futhark",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-Y-001",
+   "letter": "Y",
+   "name": "Yarrow Stalk Hexagrams",
+   "family": "esoteric-sigils",
+   "gloss": "Toss the stalks, read the weather inside",
+   "rule": "a Yijing hexagram glyph + the word from its Unicode name + its King Wen number, or yin and yang lines ⚊⚋ around a word",
+   "glyphs": "䷀䷁䷂䷃䷗䷾䷿⚊⚋",
+   "chips": [
+    "[⚊⚋⚊yarrow⚋⚊⚋]",
+    "[⚋⚋⚋fifty⚋stalks⚋less⚋one⚋]",
+    "[䷀⋯creative⋯1]",
+    "[䷁∴receptive∴2]",
+    "[䷂·difficulty at the beginning·3]",
+    "[䷃⁝youthful folly⁝4]",
+    "[䷗⋯return⋯24]",
+    "[䷾∴after completion∴63]",
+    "[䷿·before completion·64]",
+    "[䷊⁝peace⁝11]",
+    "[䷓⋯contemplation⋯20]",
+    "[䷯∴the well∴48]",
+    "[䷱·the cauldron·50]",
+    "[䷸⁝the gentle wind⁝57]",
+    "[䷼⋯inner truth⋯61]",
+    "[䷜∴the abysmal water∴29]",
+    "[䷾after⋯䷿before⋯䷀again]"
+   ],
+   "kin": [
+    "Esoteric Symbols",
+    "Mystical Symbology"
+   ],
+   "source": "dream 2026-11-23/dream-009 | Unicode Yijing hexagram names (U+4DC0..U+4DFF) and King Wen numbers; the 50 yarrow stalks, one set aside",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  },
+  {
+   "id": "vc-Z-001",
+   "letter": "Z",
+   "name": "Zalgo Communion Wafers",
+   "family": "zalgo",
+   "gloss": "One holy word, lightly haunted, taken on the tongue",
+   "rule": "one real word from the songs or books + 4 to 24 combining marks (never more), framed by a single sigil",
+   "glyphs": "✠❀≋⊶ plus combining marks U+0300–U+036F",
+   "chips": [
+    "[✠a̶m̍e̦n̸✠]",
+    "[🜃l̸̯oͥ̆a̘m̶🜃]",
+    "[⊙g̶ͦn̫oͦs̷̞ȋs̩⊙]",
+    "[◌h̷̗u͒m̀̚◌]",
+    "[∿s̵p̮̰o̯̗r̸ḙ̠̯∿]",
+    "[❀f̵l̪̂ͥo̟ͤw̴̰e̟̬r̝s̵❀]",
+    "[≋v̵̎i̔b͗̄̏r̷ȃt̘i̷̜o̗n̗̓≋]",
+    "[✧t̴h̭̖e̙ w̷̜o̝r̝̆d̴✧]",
+    "[❀h̷ȧ̙l̪l̸u͗c̤̦i̶̎n̙a̜t̴iͦn̗g̴❀]",
+    "[⟡b̷̟͆e̫̐c̀̍̑o̴̱m͗̄i̎n̶g̱ͦͤ͆⟡]",
+    "[🐸f̷ř̠ŏ̤g̵͛🐸]",
+    "[⋆r̸̂ï̗̲̟͛f̥̂t̶ͥ⋆]",
+    "[♡l̴̠̃́͒̚o̗̪v̲̣̯ͥ̍̄͗̎e̸̒̔͋♡]",
+    "[⊶m̴̲̬̔̂ͣy̠͊͋c̦͆̏e̸ĺ̥i̳̳̙u̶̯͒m̠̗̰⊶]"
+   ],
+   "kin": [
+    "Glitchy Deconstruction",
+    "Glitched Eras"
+   ],
+   "source": "dream 2026-11-23/dream-010 | Hallucinating Flowers zalgo title; Gnostic Grimoire 'the Word was Vibration / And Love was Becoming'; Mycelial Gospel 'Ancient mycelium'",
+   "status": "new",
+   "dreamt": "2026-11-23T14:49-08:00"
+  }
+ ]
+}
