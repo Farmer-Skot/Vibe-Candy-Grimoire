@@ -9,7 +9,7 @@ Grimoires, gospels and glyphs in plain text and living ASCII, by Farmer Skot.
 | `HERMETIC_CODEX` | Twelve pieces on the Hermetic teaching, each behind a gate. |
 | `The Gnostic Grimoire` | Nineteen textual visions. |
 | `The Mycelial Gospel` | Eighteen pieces on ancestors, directions and plant teachers. |
-| `The Vibe Candy Grab Bag` | Vibe Candy: dense symbolic blocks for seeding music prompts. The complete list is sorted A to Z (47 flavors, 492 pieces), each flavor with a one-line gloss; a JSON copy is in `docs/vibe-candy/vibe-candy.json`. |
+| `The Vibe Candy Grab Bag` | Vibe Candy: dense symbolic blocks for seeding music prompts. The complete list is sorted A to Z (87 flavors, 1,060 pieces), each flavor with a one-line gloss; a JSON copy is in `docs/vibe-candy/vibe-candy.json`. |
 | `Christos-Logos-Gaiasophia Python`, `Steganographic Upwelling` | Poems written as code. They are not meant to run. |
 
 The books are plain UTF-8 text. Read them in a monospace font.
